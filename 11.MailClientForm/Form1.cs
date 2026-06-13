@@ -15,7 +15,7 @@ namespace _11.MailClientForm
         List<MimeKit.MimeMessage> draft = new List<MimeKit.MimeMessage>();
 
         string email = "fedorishchevvadym@gmail.com";
-        string password = "qtwp xjtb fxem twmv";
+        string password = "";
         string imapServer = "imap.gmail.com";
         int port = 993;
 
